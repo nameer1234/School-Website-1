@@ -1,0 +1,12 @@
+body{
+    background: linear-gradient(blue, purple, cyan, magenta);
+    height:80%;
+    width:80%;
+}
+#video{
+    width:100%;
+    height:500px;
+    border:dashed;
+    border-width: 25px;
+   
+}
